@@ -9,4 +9,9 @@ console.log(accountId)
 accountEmail= "mannu@gmail.com"
 accountPassword= "897897"
 accountCity= "Jammu"
-console.table([accountId, accountEmail, accountPassword, accountCity])
+/*
+if we only decalre the variable so,the
+value will be undefined in js.
+*/
+let accountState;
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
