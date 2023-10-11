@@ -14,4 +14,8 @@ if we only decalre the variable so,the
 value will be undefined in js.
 */
 let accountState;
+/*
+ perfer not to use var becoz of issue
+ in block scope and functional scope
+*/
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
