@@ -47,10 +47,9 @@ let str2= "Monika"
 let str3= str1 + str2
 // console.log(str3);
 
-console.log(1+ "2");
-console.log("1" + 2);
-console.log(1+ 2+ "2");
-console.log(1+ "2"+ 2);
-console.log("1"+ 2+ 2);
-
-console.log((3+4) * 6 /9)
+// console.log(1+ "2");
+// console.log("1" + 2);
+// console.log(1+ 2+ "2");
+// console.log(1+ "2"+ 2);
+// console.log("1"+ 2+ 2);
+// console.log((3+4) * 6 /9)
