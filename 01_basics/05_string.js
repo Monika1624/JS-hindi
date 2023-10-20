@@ -33,7 +33,7 @@ console.log(url.includes('small'));
 
 /*convert string into array by 
 using split() => separator and limit*/
-const car= new String('BMW-Baleno-Audi');
+const car = new String('BMW-Baleno-Audi');
 console.log(car.split('-'));
 
 const str= "Hi i am pratice string in github"
