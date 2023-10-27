@@ -7,3 +7,10 @@ const Hero= ["Tom", "Jerry", "Osworld"]
 
 const MyArr2= new Array(100, 99, 98, 97)
 console.log(MyArr2[1]);
+
+//Array Method
+
+//MyArr.push(7)
+//MyArr.push(8)
+//MyArr.pop()
+console.log(MyArr);
