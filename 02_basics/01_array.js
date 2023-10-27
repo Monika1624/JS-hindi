@@ -13,4 +13,7 @@ console.log(MyArr2[1]);
 //MyArr.push(7)
 //MyArr.push(8)
 //MyArr.pop()
+
+//MyArr.unshift(100)
+//MyArr.shift()
 console.log(MyArr);
