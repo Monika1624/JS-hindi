@@ -16,4 +16,11 @@ console.log(MyArr2[1]);
 
 //MyArr.unshift(100)
 //MyArr.shift()
+
+console.log(MyArr.includes(8));
+console.log(MyArr.indexOf(8));
+
+const newArr= MyArr.join()
 console.log(MyArr);
+console.log(newArr);
+console.log(typeof newArr);
