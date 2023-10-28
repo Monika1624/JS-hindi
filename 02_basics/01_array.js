@@ -24,3 +24,15 @@ const newArr= MyArr.join()
 console.log(MyArr);
 console.log(newArr);
 console.log(typeof newArr);*/
+
+// slice, splice
+console.log("A ", MyArr)
+
+const myn1= MyArr.slice(1,3);
+console.log(myn1);
+
+console.log("B ", MyArr)
+
+console.log("C ", MyArr)
+const myn2= MyArr.splice(1,3);
+console.log(myn2);
