@@ -22,3 +22,11 @@ console.log(new_another_array);
 
 console.log(Array.isArray("Monika"));//ask question => isArray
 console.log(Array.from("Monika")); //change array into string =>from
+
+console.log(Array.from({name: "Monika"}));//intersting
+
+let score1= 100;
+let score2= 200;
+let score3= 300;
+console.log(Array.of(score1, score2, score3));
+
