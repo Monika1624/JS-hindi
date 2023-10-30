@@ -30,4 +30,9 @@ const movie = ["DDLJ", "KKKG", "KGF"]
 //movie.push("karanLovesMonika")
 console.log(movie);
 
-
+// an array declared with var doesn't have block scope
+var cars = ["BMW", "Audi"]
+{
+    var cars = ["Saab", "Oble"]
+}
+console.log(cars);
